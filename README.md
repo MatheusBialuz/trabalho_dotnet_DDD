@@ -13,7 +13,7 @@ O objetivo deste projeto é criar uma API robusta utilizando ASP.NET CORE, segui
 * Durante o desenvolvimento, foquei no domínio do cliente, garantindo que a aplicação atenda às necessidades específicas do negócio.
 
 # Explicação:
-Além disso, utilizaremos o ENTITY FRAMEWORK CORE para configurar e gerar o banco de dados através de MIGRATIONS, garantindo uma estrutura de dados eficiente e escalável.
+  Além disso, utilizaremos o ENTITY FRAMEWORK CORE para configurar e gerar o banco de dados através de MIGRATIONS, garantindo uma estrutura de dados eficiente e escalável.
 Implementaremos diversas técnicas para blindar o código, aumentando a segurança e a robustez da aplicação. Também utilizaramos teclas de atalho e outras dicas para aumentar a produtividade durante o desenvolvimento.
 Para garantir a segurança da API, implementaramos autenticação e autorização através de JWT (JSON Web Tokens), evitando que usuários não autorizados acessem os recursos da API.
 Todos os requests seram baseados em Commands, um conceito amplamente utilizado no mercado para garantir a clareza e a manutenção do código.
