@@ -37,5 +37,5 @@ Todos os requests seram baseados em Commands, um conceito amplamente utilizado n
 * Postman;
 * Público Alvo.
   
-> Este projeto é destinado a materia de Arquitetura de software, com o foco em aprender e aplicar conceitos avançados de desenvolvimento BackEnd, criando APIs robustas e seguras com as melhores práticas ministrado pelo Professor: Mateus Pereira.
+> Este projeto é destinado a materia de Arquitetura de software, com o foco em aprender e aplicar conceitos avançados de desenvolvimento BackEnd, criando APIs robustas e seguras com as melhores práticas, ministrado pelo Professor: Mateus Pereira.
 > O projeto será desenvolvido por: Matheus Bialuz e Diego Santos. 
