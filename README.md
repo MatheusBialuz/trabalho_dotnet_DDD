@@ -10,7 +10,7 @@ O objetivo deste projeto é criar uma API robusta utilizando ASP.NET CORE, segui
 * Mediator Pattern;
 * Repository Pattern;
 * Notification Pattern;
-* Durante o desenvolvimento, foquei no domínio do cliente, garantindo que a aplicação atenda às necessidades específicas do negócio.
+* Durante o desenvolvimento, o foco é no domínio do cliente, garantindo que a aplicação atenda às necessidades específicas do negócio.
 
 # Explicação:
   Além disso, utilizaremos o ENTITY FRAMEWORK CORE para configurar e gerar o banco de dados através de MIGRATIONS, garantindo uma estrutura de dados eficiente e escalável.
