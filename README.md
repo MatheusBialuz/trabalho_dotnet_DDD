@@ -5,14 +5,15 @@ Desenvolvimento de uma API BackEnd completa e robusta em C#.
 Neste projeto, desenvolveremos uma API BackEnd completa e robusta em C#, abordando desde a criação do projeto do absoluto zero até a implementação de padrões de projeto avançados.
 
 # Descrição do Projeto
-O objetivo deste projeto é criar uma API robusta utilizando ASP.NET CORE, seguindo os princípios do DDD (Domain-Driven Design) e implementando padrões de projeto como:
-*+ Mediator Pattern;
+O objetivo deste projeto é criar uma API robusta utilizando ASP.NET CORE, seguindo os princípios do DDD (Domain-Driven Design) e implementando padrões de projeto como: 
+* Em .NET, a implementação de DDD envolve a aplicação de conceitos e padrões específicos que ajudam a estruturar e organizar o código de forma eficiente e escalável;
+* Mediator Pattern;
 * Repository Pattern;
 * Notification Pattern;
 * Durante o desenvolvimento, foquei no domínio do cliente, garantindo que a aplicação atenda às necessidades específicas do negócio.
 
 # Explicação:
-Além disso, utilizarei o ENTITY FRAMEWORK CORE para configurar e gerar o banco de dados através de MIGRATIONS, garantindo uma estrutura de dados eficiente e escalável.
+Além disso, utilizaremos o ENTITY FRAMEWORK CORE para configurar e gerar o banco de dados através de MIGRATIONS, garantindo uma estrutura de dados eficiente e escalável.
 Implementaramos diversas técnicas para blindar o código, aumentando a segurança e a robustez da aplicação. Também utilizei teclas de atalho e outras dicas para aumentar a produtividade durante o desenvolvimento.
 Para garantir a segurança da API, implementarei autenticação e autorização através de JWT (JSON Web Tokens), evitando que usuários não autorizados acessem os recursos da API.
 Todos os requests são baseados em Commands, um conceito amplamente utilizado no mercado para garantir a clareza e a manutenção do código.
@@ -37,3 +38,4 @@ Todos os requests são baseados em Commands, um conceito amplamente utilizado no
 * Público Alvo.
   
 > Este projeto é destinado a materia de Arquitetura de software, com o foco em aprender e aplicar conceitos avançados de desenvolvimento BackEnd, criando APIs robustas e seguras com as melhores práticas ministrado pelo Professor: Mateus Pereira.
+> O projeto será desenvolvido por: Matheus Bialuz e Diego Santos. 
