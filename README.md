@@ -1,14 +1,14 @@
 # trabalho_dotnet_DDD
-Desenvolvimento de uma API BackEnd completa e robusta em C#
+Desenvolvimento de uma API BackEnd completa e robusta em C#.
 
 # Projeto BackEnd: Criação de API Robusta
 Neste projeto, desenvolveremos uma API BackEnd completa e robusta em C#, abordando desde a criação do projeto do absoluto zero até a implementação de padrões de projeto avançados.
 
 # Descrição do Projeto
 O objetivo deste projeto é criar uma API robusta utilizando ASP.NET CORE, seguindo os princípios do DDD (Domain-Driven Design) e implementando padrões de projeto como:
-* Mediator Pattern
-* Repository Pattern
-* Notification Pattern
+* Mediator Pattern;
+* Repository Pattern;
+* Notification Pattern;
 * Durante o desenvolvimento, foquei no domínio do cliente, garantindo que a aplicação atenda às necessidades específicas do negócio.
 
 # Explicação:
@@ -36,4 +36,4 @@ Todos os requests são baseados em Commands, um conceito amplamente utilizado no
 * Postman;
 * Público Alvo.
   
-Este projeto é destinado a desenvolvedores que desejam aprender e aplicar conceitos avançados de desenvolvimento BackEnd, criando APIs robustas e seguras com as melhores práticas do mercado.
+> Este projeto é destinado a desenvolvedores que desejam aprender e aplicar conceitos avançados de desenvolvimento BackEnd, criando APIs robustas e seguras com as melhores práticas do mercado.
